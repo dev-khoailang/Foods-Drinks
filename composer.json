@@ -10,9 +10,10 @@
 	},
       "autoload": {
         "psr-4": {
-            "CMS\\": "application/core/CMS",
-            "API\\": "application/core/API",
-            "CRAWLER\\": "application/core/CRAWLER"
+            "Cms\\": "application/core/Cms",
+            "Api\\": "application/core/Api",
+            "Crawler\\": "application/core/Crawler",
+            "Entity\\": "application/core/Entity	"
         }
     }
 
